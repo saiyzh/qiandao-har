@@ -4,5 +4,5 @@
 
 HAR editor 使用指南：https://github.com/binux/qiandao/blob/master/docs/har-howto.md
 
-可用于https://github.com/binux/qiandao的签到~
+可用于https://github.com/binux/qiandao
 
