@@ -9,7 +9,7 @@
 | btschool | cookie        | 获取页面cookie即可，带日志                                |
 | hdarea   | cookie        | 获取页面cookie即可，带日志                                 |
 | hddolby  | cookie        | 获取页面cookie即可，带日志                                 |
-| lemonhd  | cookie        | 获取页面cookie即可，带日志                                 |
+| leaguehd(lemonhd)  | cookie        | 获取页面cookie即可，带日志                                 |
 | nicept   | cookie        | 获取页面cookie即可，带日志                                 |
 | pthome   | cookie        | 获取页面cookie即可，带日志                                 |
 | hdhome   | cookie        | 获取页面cookie即可，带日志                                 |
